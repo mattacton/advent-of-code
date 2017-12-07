@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of Code 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -r ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattacton/advent-of-code.git"
+  },
+  "author": "Matt Acton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattacton/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/mattacton/advent-of-code#readme"
+}
